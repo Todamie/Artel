@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Artel</string>
+    <string name="action_stop_title">Стоп</string>
+    <string name="action_clear_title">Очистить</string>
+
+    <string name="request_hint">Поиск</string>
+
+</resources>

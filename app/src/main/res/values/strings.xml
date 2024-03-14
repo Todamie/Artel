@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Artel</string>
+    >
+    <string name="action_stop_title">Stop</string>
+    <string name="action_clear_title">Clear</string>
+    <string name="request_hint">Search</string>
+
+
+    <string name="name" translatable="false">Введите имя</string>
+    <string name="second_name" translatable="false">Введите фамилию</string>
+    <string name="user_name" translatable="false">Введите имя пользователя</string>
+    <string name="password" translatable="false">Введите пароль</string>
+    <string name="confirm_password" translatable="false">Подтвердите пароль</string>
+    <string name="signed" translatable="false">Регистрация</string>
+    <string name="already_have_an_account_login" translatable="false">У меня уже есть аккаунт</string>
+    <string name="don_t_have_an_account_sign_in" translatable="false">У меня нет аккаунта, вернуться назад</string>
+    <string name="login" translatable="false">Вход</string>
+
+</resources>
